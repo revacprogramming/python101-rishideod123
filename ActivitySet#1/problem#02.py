@@ -1,3 +1,3 @@
 # Why Program
-
-prinq("hello world")
+0
+print("hello world");
